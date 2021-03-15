@@ -1,0 +1,18 @@
+Script started on 2021-03-15 17:25:50+09:00 [TERM="xterm-256color" TTY="/dev/tty3" COLUMNS="120" LINES="30"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;sohee972000@sohee: ~[01;32msohee972000@sohee[00m:[01;34m~[00m$ date
+Mon Mar 15 17:26:26 KST 2021
+]0;sohee972000@sohee: ~[01;32msohee972000@sohee[00m:[01;34m~[00m$ pwd
+/home/sohee972000
+]0;sohee972000@sohee: ~[01;32msohee972000@sohee[00m:[01;34m~[00m$ la[Ks
+0315
+]0;sohee972000@sohee: ~[01;32msohee972000@sohee[00m:[01;34m~[00m$ hso[K[Kostname
+sohee
+]0;sohee972000@sohee: ~[01;32msohee972000@sohee[00m:[01;34m~[00m$ um[Kname
+Linux
+]0;sohee972000@sohee: ~[01;32msohee972000@sohee[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2021-03-15 17:27:25+09:00 [COMMAND_EXIT_CODE="0"]
