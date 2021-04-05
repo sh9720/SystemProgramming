@@ -20,13 +20,13 @@ int main()
 		}
 	}
 if (max > 0) //입력 줄이 있었다면
-printf("%s", longest);
-return 0;
+	printf("%s", longest);
+	return 0;
 }
 void copy(char from[], char to[])
 {
-int i;
-i = 0;
-while ((to[i] = from[i]) != '\0')
-++i;
+	int i;
+	i = 0;
+	while ((to[i] = from[i]) != '\0')
+	++i;
 }
