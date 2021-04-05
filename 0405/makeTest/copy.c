@@ -5,8 +5,8 @@
 히 크다고 가정*/
 void copy(char from[], char to[])
 {
-int i;
-i = 0;
+  int i;
+  i = 0;
 while ((to[i] = from[i]) != '\0')
-++i;
+  ++i;
 }
