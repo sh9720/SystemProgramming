@@ -8,8 +8,7 @@ int main(int argc , char *argv[])
 int fd1, fd2, n;
 char buf[BUFSIZ];
 if (argc != 3) {
-fprintf(stderr,"사용법 : %s file1 file2 n",
-argv[0]);
+fprintf(stderr,"사용법 : %s file1 file2 \n",argv[0]);
 exit(1);
 }
 if ((fd1 = open(argv[1], O_RDONLY)) == -1) 
